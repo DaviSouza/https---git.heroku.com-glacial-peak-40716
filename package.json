@@ -1,0 +1,20 @@
+{
+  "name": "bigalirest",
+  "version": "0.0.0",
+  "description": "bigalirest",
+  "main": "server.js",
+  "author": {
+    "name": "davil"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "debug": "^2.6.3",
+    "express": "^4.15.2",
+    "express-myconnection": "^1.0.4",
+    "getmodule": "^1.0.0",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0"
+  }
+}
